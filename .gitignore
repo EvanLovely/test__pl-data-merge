@@ -5,3 +5,4 @@ export/*
 packages/*
 vendor/*
 public/*
+source/styleguide/*
